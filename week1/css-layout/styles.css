@@ -1,0 +1,15 @@
+body { background-color:white ;
+    
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: peachpuff;
+    
+    margin: 20px;
+    padding:40px;
+    
+    border: 10px solid burlywood;
+    
+    
+}
