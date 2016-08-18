@@ -24,7 +24,7 @@ else{
     birth()
     }
 }
-
+//zipcode
 function zip(){
     var zipcode = prompt("tell me where you stay at")
     if (zipcode.charAt(5)){
@@ -36,6 +36,8 @@ function zip(){
         zip()
     }
 }
+
+//state you live in
 function state(){
     var state = prompt("tell me your state in two letters")
     if (state.charAt(2) && state.toUpperCase(2)){

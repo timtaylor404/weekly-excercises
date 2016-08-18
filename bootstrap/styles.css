@@ -1,0 +1,9 @@
+body {
+  background: grey;
+}
+#the-defactos .well {
+  padding: 10px;
+}
+#the-defactos.row{
+  margin:0;
+}
